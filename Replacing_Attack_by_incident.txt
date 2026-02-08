@@ -1,0 +1,76 @@
+Cyber Security focuses on preventing Attack on computer systems.
+An Attack can target networks, servers, and applications.
+Every organization must be prepared for a cyber Attack.
+An Attack may come from internal users or external hackers.
+Understanding an Attack pattern helps improve security.
+A malware Attack can damage sensitive data.
+Phishing is a common type of Attack.
+An Attack often starts with weak passwords.
+A brute force Attack tries multiple passwords.
+An Attack can be automated using scripts.
+Social engineering Attack targets human psychology.
+A DDoS Attack floods the network with traffic.
+Preventing Attack requires firewalls and IDS.
+An Attack may exploit outdated software.
+Cyber laws aim to prevent cyber Attack.
+Every Attack leaves digital evidence.
+Monitoring tools detect suspicious Attack behavior.
+An Attack can remain hidden for long periods.
+A ransomware Attack encrypts important files.
+Email is a common medium for Attack.
+Employee training helps identify an Attack.
+An Attack can occur at any time.
+System logs help analyze an Attack.
+A zero-day Attack is very dangerous.
+An Attack affects data confidentiality.
+Integrity is compromised during an Attack.
+Availability is impacted by an Attack.
+Security policies reduce Attack damage.
+IoT devices are frequent Attack targets.
+Wireless networks are vulnerable to Attack.
+Encryption protects data from Attack.
+An Attack can cause financial loss.
+Penetration testing simulates an Attack.
+An Attack may bypass antivirus software.
+IDS detects network Attack attempts.
+IPS prevents malicious Attack traffic.
+Cloud servers face constant Attack attempts.
+Attack vectors include email and USB drives.
+An Attack may contain malicious payloads.
+Security audits help prevent Attack.
+Human error often leads to an Attack.
+Attack mitigation strategies are essential.
+An Attack may go undetected initially.
+Regular updates prevent attack.
+A strong password reduces attack chances.
+An attack can be targeted or random.
+Cyber crime often involves attack techniques.
+An attack can steal sensitive data.
+Logs record every attack attempt.
+An attack can escalate privileges.
+Firewall rules block attack traffic.
+An attack may cause system downtime.
+Incident response handles attack situations.
+An attack may spread laterally.
+Security awareness reduces attack success.
+An attack can originate globally.
+Attack simulation improves defense.
+A layered defense stops attack.
+An attack can corrupt files.
+Backups help recover from attack.
+An attack can disable services.
+Cyber insurance covers attack damage.
+An attack often targets weak systems.
+Continuous monitoring detects attack early.
+An attack lifecycle includes reconnaissance.
+An attack can bypass weak security.
+Attack prevention saves resources.
+An attack may involve botnets.
+Security patches stop attack vectors.
+An attack may manipulate data.
+Strong authentication prevents attack.
+An attack can compromise privacy.
+Threat intelligence predicts attack trends.
+An attack may exploit misconfigurations.
+Cyber hygiene reduces attack frequency.
+An attack is a major security concern.
